@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhamPoriya
-- 👀 I’m interested in **Machine Learning** and **Software Development**
-- 🌱 Current Project: Share Eats (Django - PostGresSQL)
-- 🔮 Future Projects: Car Pool App, Best Buy from Flyers around you
+- 👀 I’m interested in **Machine Learning** and **Web and Software Development**
+- 🗓 Currently building projects with REACT.js
+- 🔮 Future Projects: My own portfolio, A cake ordering website, recipe app.
 - 💞️ I’m looking to collaborate on preferably computer vision projects. Also would love to work on interesting ideas
 - [Twitter: Shubham Poriya](https://twitter.com/PoriyaShubham)
 - [LinkedIn: Shubham Poriya](linkedin.com/in/shubham-poriya-08274b92)
