@@ -31,7 +31,7 @@
 
 
 
-### My projects
+<h2 align="center">My Projects</h2>
 <table>
   <thead>
     <th>Projects</th>
@@ -64,7 +64,7 @@
 
 <div align="center">
 
-  ### Lets Talk Stats !!
+  <h2>Lets Talk Stats</h2>
   
   <tr>
     <td>
@@ -77,6 +77,8 @@
 
 </div>
 
+<div>
+  <h2 align="center">My Development Activity</h2>
 <!--START_SECTION:waka-->
 
 
@@ -95,12 +97,18 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
  Last Updated on 09/09/2022 22:19:21 UTC
 <!--END_SECTION:waka-->
+  
+</div>
 
-### Connect With Me
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<div align="center">
+  <h2>Connect With Me</h2>
+  <a href="https://twitter.com/PoriyaShubham" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/shubhamporiya" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/shubhamporiya/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:shubhamporiya@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+    
+
 
 
 <!---
