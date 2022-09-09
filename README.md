@@ -58,18 +58,6 @@ PaaS
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 46 Contributions in the Year 2022
- > 
-> 📦 68.4 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -81,12 +69,8 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/ShubhamPoriya/ShubhamPoriya/main/charts/bar_graph.png) 
-
-
- Last Updated on 09/09/2022 22:06:33 UTC
+ Last Updated on 09/09/2022 22:19:21 UTC
 <!--END_SECTION:waka-->
 
 
