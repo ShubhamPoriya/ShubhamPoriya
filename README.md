@@ -54,7 +54,39 @@ PaaS
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamPoriya&show_icons=true&theme=radical)](https://github.com/ShubhamPoriya/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 46 Contributions in the Year 2022
+ > 
+> 📦 68.4 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ██████████████░░░░░░░░░░░   58.33% 
+TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Python                   2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/ShubhamPoriya/ShubhamPoriya/main/charts/bar_graph.png) 
+
+
+ Last Updated on 09/09/2022 22:06:33 UTC
 <!--END_SECTION:waka-->
 
 
