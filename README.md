@@ -3,7 +3,22 @@
 A budding ***Full-Stack Software Developer*** who loves to work on innovative projects and ideas. It has always been my motivation to execute my ideas to help the community and improve our standards. I am currently in my final semester of **Post-Baccalaureate Diploma in Artificial Intelligence** at St. Francis Xavier University, NS, Canada. Currently I am mainly focused on **Software development** and **A.I.** focused work and roles. Being a fresher, I am open to all the opportunities that come my way.  
 
 ### Technologies I work with...
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,aws,git,github)](https://skillicons.dev)
+
+Front-End
+<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,react)](https://skillicons.dev)
+
+Back-End
+<br>
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,python)](https://skillicons.dev)
+
+Database
+<br>
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+
+PaaS
+<br>
+[![My Skills](https://skillicons.dev/icons?i=aws,vercel)](https://skillicons.dev)
 
 ### My projects
 <table>
@@ -35,6 +50,14 @@ A budding ***Full-Stack Software Developer*** who loves to work on innovative pr
     </tr>
   </tbody>
 </table>
+
+[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhamPoriya&show_icons=true&theme=radical)](https://github.com/ShubhamPoriya/github-readme-stats)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
 <!---
 ShubhamPoriya/ShubhamPoriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
