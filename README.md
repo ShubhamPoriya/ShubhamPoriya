@@ -2,7 +2,7 @@
 
 <div>
   
-  <h1 align="center">I am <a href="https://github.com/ShubhamPoriya">Shubham Poriya</a> <p align="center"><img src="http://img.shields.io/badge/Profile%20Views-10-blue" alt="Profile Views"/></p></h1>
+  <h1 align="center">I am <a href="https://github.com/ShubhamPoriya">Shubham Poriya</a></h1>
 </div> 
 <p align="center">A budding Full-Stack Software Developer who loves to work on innovative projects and ideas. It has always been my motivation to execute my ideas to help the community and improve our standards. I am currently in my final semester of **Post-Baccalaureate Diploma in Artificial Intelligence** at St. Francis Xavier University, NS, Canada. Currently I am mainly focused on **Software development** and **A.I.** focused work and roles. Being a fresher, I am open to all the opportunities that come my way.</p>  
 
@@ -80,9 +80,11 @@
 <div>
   <h2 align="center">My Development Activity</h2>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-135-blue)
+<table align="center">
+  <th><img src="http://img.shields.io/badge/Code%20Time-0%20secs-blue"/></th>
+  <th><img src="http://img.shields.io/badge/Profile%20Views-135-blue"/></th>
+</table>
 
 **I'm an Early 🐤** 
 
