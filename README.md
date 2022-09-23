@@ -80,9 +80,9 @@
 <div>
   <h2 align="center">My Development Activity</h2>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-137-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-129-blue)
 
 **I'm an Early 🐤** 
 
@@ -145,7 +145,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2022 18:54:38 UTC
+ Last Updated on 23/09/2022 18:57:45 UTC
 <!--END_SECTION:waka-->
   
 </div>
