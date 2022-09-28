@@ -1,6 +1,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+Welcome+to+my+Github+page+.+.+."/>
 
 <div>
+  <h1>Events Bulletin</h1>
+  <p>Hacktober Fest Badges</p>
+  <img src="https://holopin.io/api/user/board?user=shubhamporiya" alt="@shubhamporiya's Holopin board" />
+</div>
+
+<div>
   
   <h1 align="center">I am <a href="https://github.com/ShubhamPoriya">Shubham Poriya</a></h1>
 </div> 
