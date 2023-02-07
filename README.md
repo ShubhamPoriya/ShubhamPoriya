@@ -42,7 +42,7 @@
     <tr>
       <td><a href="https://github.com/ShubhamPoriya/shubham-poriya">Portfolio</a></td>
       <td>My personal portfolio using React.js and backend in node.js. I also used mongodb for storing data.</td>
-      <td>⏱ Working...</td>
+      <td>✅ Completed!</td>
     </tr>
     <tr>
       <td><a href="https://github.com/ShubhamPoriya/weshop-frontend">We-Shop</a></td>
