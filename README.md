@@ -93,9 +93,7 @@ Currently I work as an AI Consultant** at Lemay.ai roles. I have 2+ years of exp
 
 <div align="center">
   <h2>Connect With Me</h2>
-  <a href="https://twitter.com/PoriyaShubham" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="www.linkedin.com/in/shubhamporiya" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/shubhamporiya/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:shubhamporiya@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
     
