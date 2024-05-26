@@ -6,7 +6,7 @@
 </div> 
 <p align="center">A Software Developer who loves to work on innovative projects and ideas. It has always been my motivation to execute my ideas to help build a better world. I am have finished my **Post-Baccalaureate Diploma in Artificial Intelligence** from St. Francis Xavier University, NS, Canada. 
   
-Currently I work as an AI Consultant** at Lemay.ai roles. I have 2+ years of experience working with AI related projects that includes a wide array of AI tools and domains. Below are an exhaustive tools I am proficient at.
+Currently I work as an AI Consultant** at Lemay.ai roles. I have 2+ years of experience working with AI related projects that includes a wide array of AI tools and domains. Below are an exhaustive list of tools that I am proficient with.
 
 <ul>
   <li>ML: Supervised & Unsupervised Models | Regression Models | Reinforcement Learning Models</li>
