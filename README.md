@@ -4,7 +4,20 @@
   
   <h1 align="center">I am <a href="https://github.com/ShubhamPoriya">Shubham Poriya</a></h1>
 </div> 
-<p align="center">A Software Developer who loves to work on innovative projects and ideas. It has always been my motivation to execute my ideas to help the community and improve our standards. I am currently in my final semester of **Post-Baccalaureate Diploma in Artificial Intelligence** at St. Francis Xavier University, NS, Canada. Currently I am mainly focused on **Software development** and **A.I.** focused work and roles. Being a fresher, I am open to all the opportunities that come my way.</p>  
+<p align="center">A Software Developer who loves to work on innovative projects and ideas. It has always been my motivation to execute my ideas to help build a better world. I am have finished my **Post-Baccalaureate Diploma in Artificial Intelligence** from St. Francis Xavier University, NS, Canada. Currently I work as an **AI Consultant** at **Lemay.ai** roles. I have 2+ years of experience working with AI related projects that includes a wide array of AI tools and domains. Below are an exhaustive tools I am proficient at.
+<ul>
+  <li>ML: Supervised & Unsupervised Models | Regression Models | Reinforcement Learning Models</li>
+  <li>NLP: RAG | LLM finetuning, inference and, optimization | Named Entity Recognition</li>
+  <li>Computer Vision: Object Detection using YOLO | Depth detection</li>
+  <li>Reinforcement Learning: MDP | PPO | Policy Iteration | SARSA | Multi-dimensional environments</li>
+  <li>Frontend Frameworks: Angular | ReactJs | NextJs</li>
+  <li>Backend Frameworks: FastAPI | Flask | NodeJS | Sanity</li>
+  <li>DevOps: Docker | Kubernetes | AWS | Terraform | CI/CD</li>
+  <li>Deployment: Nginx</li>
+  <li>OS: UNIX | Linux (Ubuntu) | Windows</li>
+  <li>Mobile App Dev: Android Studio</li>
+</ul>
+</p>  
 
 <div align="center">
   <h2>My Tech Stack<h2>
