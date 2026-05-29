@@ -1,106 +1,66 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+Welcome+to+my+Github+page+.+.+."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hey!+I'm+Shubham+Poriya;I+build+AI+that+actually+ships.;Agentic+Systems+%7C+RAG+%7C+Full-Stack+AI"/>
 
-<div>
-  
-  <h1 align="center">I am <a href="https://github.com/ShubhamPoriya">Shubham Poriya</a></h1>
-</div> 
-<p>A Software Developer who loves to work on innovative projects and ideas. It has always been my motivation to execute my ideas to help build a better world. I am have finished my **Post-Baccalaureate Diploma in Artificial Intelligence** from St. Francis Xavier University, NS, Canada. 
-  
-Currently I work as an AI Consultant** at Lemay.ai roles. I have 2+ years of experience working with AI related projects that includes a wide array of AI tools and domains. Below are an exhaustive list of tools that I am proficient with.
+<h1 align="center">Shubham Poriya</h1>
+<p align="center">
+  AI Engineer · Toronto, Canada · <a href="https://shubhamporiya.com">shubhamporiya.com</a>
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/shubhamporiya"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shubhamporiya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://shubhamporiya.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://tax-scout.ai"><img src="https://img.shields.io/badge/Tax--Scout.ai-0A66C2?style=for-the-badge&logo=data:image/png;base64,&logoColor=white"/></a>
+</p>
 
-<ul>
-  <li>ML: Supervised & Unsupervised Models | Regression Models | Reinforcement Learning Models</li>
-  <li>NLP: RAG | LLM finetuning, inference and, optimization | Named Entity Recognition</li>
-  <li>Computer Vision: Object Detection using YOLO | Depth detection</li>
-  <li>Reinforcement Learning: MDP | PPO | Policy Iteration | SARSA | Multi-dimensional environments</li>
-  <li>Frontend Frameworks: Angular | ReactJs | NextJs</li>
-  <li>Backend Frameworks: FastAPI | Flask | NodeJS | Sanity</li>
-  <li>DevOps: Docker | Kubernetes | AWS | Terraform | CI/CD</li>
-  <li>Deployment: Nginx</li>
-  <li>OS: UNIX | Linux (Ubuntu) | Windows</li>
-  <li>Mobile App Dev: Android Studio</li>
-</ul>
-</p>  
+---
+
+### About Me
+
+I build autonomous agents that work in production. No demos, no prototypes left to rot — just AI systems that handle real complexity with strict guardrails.
+
+Currently an **AI Consultant at [Lemay.ai](https://lemay.ai)**, leading teams from prototype to production. Building **[Tax-Scout.ai](https://tax-scout.ai)** on the side — an AI platform for Canadian tax professionals.
+
+---
+
+### What I Ship
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| **[Tax-Scout.ai](https://tax-scout.ai)** | AI platform for Canadian tax professionals — four agents handle the entire workflow | FastAPI, Next.js, MongoDB, AWS, Anthropic API | 🔧 In Development |
+| **Personal Finance Assistant** | What-if financial planning assistant that connects all your financial sources to answer scenario-based questions | Anthropic API, Plaid, Python, FastAPI | 🔧 In Development |
+| **[Snowshoe.ai](https://snowshoe.ai)** | Production RAG-powered Q&A in a compliant environment | RAG, Elasticsearch, Docker, Transformers | ✅ Live |
+| **Autonomous Intake Agents** | Led team of 5 building agents for sensitive data with strict privacy guardrails | Python, GenAI | ✅ Live |
+| **AI-Driven EdTech POC** | Learning assistant with validation agentic workflow that iterates on lesson plans | LangGraph, Agentic Workflows | ✅ Shipped |
+| **SR&ED Classification Tool** | Automates tax eligibility analysis via one-shot prompting, deployed on GCP | GCP, Prompt Engineering | ✅ Shipped |
+
+---
+
+### Tech Stack
 
 <div align="center">
-  <h2>My Tech Stack<h2>
-  <table width="100%">
+<table width="100%">
   <thead>
-    <th>Machine Learning</th>
-    <th>Front-End</th>
-    <th>Back-End</th>
+    <th>AI & Agents</th>
+    <th>Frontend</th>
+    <th>Backend</th>
     <th>Database</th>
-    <th>DevOps</th>
-    <th>PaaS</th>
-    <th>OS</th>
+    <th>Cloud & DevOps</th>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=ai,pytorch,tensorflow,sklearn" alt="ml"/></td>
-      <td>
-      <img src="https://skillicons.dev/icons?i=html,css,react,ts,nextjs,angular" alt="frontend"/>
-      </td>
-      <td><img src="https://skillicons.dev/icons?i=js,nodejs,python,fastapi,django" alt="backend"/></td>
-      <td><img src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
-      <td><img src="https://skillicons.dev/icons?i=ansible,bash,docker,gitlab,kubernetes,nginx"/></td>
-      <td><img src="https://skillicons.dev/icons?i=aws,vercel"/></td>
-      <td><img src="https://skillicons.dev/icons?i=linux,ubuntu"/></td>
+      <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="ai"/></td>
+      <td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,angular" alt="frontend"/></td>
+      <td><img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,django,flask" alt="backend"/></td>
+      <td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="db"/></td>
+      <td><img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,nginx,gitlab" alt="devops"/></td>
     </tr>
   </tbody>
 </table>
 </div>
 
+**AI & Agentic:** LangGraph · CrewAI · RAG Pipelines · Multi-agent Orchestration · Prompt Engineering · Claude · GPT-4 · HuggingFace  
+**Data:** Elasticsearch · PostgreSQL · MongoDB · Neo4j · GraphRAG · MLflow  
+**Practices:** TDD · PyTest · OpenAPI/Swagger · Code Review · CI/CD
 
-<h2 align="center">My Projects</h2>
-<table>
-  <thead>
-    <th>Projects</th>
-    <th>Description</th>
-    <th>Status</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/ShubhamPoriya/Expense-Tracker-REACT">Expense Tracker</a></td>
-      <td>A tracker to track expenses (basic app)</td>
-      <td>✅ Completed!</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ShubhamPoriya/weshop-frontend">We-Shop</a></td>
-      <td>A shareable, intuitive and interactive shopping list which is easily accessible to all the users without any hard to learn features.</td>
-      <td>⏱ In Progress</td>
-    </tr>
-    <tr>
-      <td>Coffee Finder</td>
-      <td>App that's all about Coffee!</td>
-      <td>🔜 To be Started</td>
-    </tr>
-  </tbody>
-</table>
+---
 
-<div align="center">
-
-  <h2>Lets Talk Stats</h2>
-  
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ShubhamPoriya&show_icons=true&theme=radical" alt="Shubham Poriya"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamPoriya" alt="shubham's streak" />
-    </td>
-  </tr>
-</div>
-
-<div align="center">
-  <h2>Connect With Me</h2>
-  <a href="www.linkedin.com/in/shubhamporiya" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shubhamporiya@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-    
-
-
-
-<!---
-ShubhamPoriya/ShubhamPoriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">Fueled by mass amounts of coffee. Powered by curiosity.</p>
